@@ -1,0 +1,7 @@
+EmpID,Name,Department,Salary,Age
+1,John,IT,5000,25
+2,Mary,HR,6000,28
+3,Ravi,IT,,30
+4,Sam,Finance,7000,35
+5,Anu,HR,4500,22
+6,John,IT,5000,25
