@@ -1,0 +1,21 @@
+emp_id,emp_name,department,designation,salary,city
+E101,Aarav Sharma,IT,Software Engineer,75000,Bangalore
+E102,Diya Patel,HR,HR Executive,52000,Mumbai
+E103,Arjun Singh,Finance,Accountant,60000,Delhi
+E104,Isha Gupta,IT,Senior Developer,92000,Bangalore
+E105,Rohan Mehta,Sales,Sales Executive,48000,Pune
+E106,Ananya Iyer,IT,QA Engineer,68000,Chennai
+E107,Karan Verma,Marketing,Marketing Manager,85000,Delhi
+E108,Neha Reddy,Finance,Financial Analyst,72000,Hyderabad
+E109,Vikram Joshi,IT,System Admin,70000,Pune
+E110,Pooja Nair,HR,Recruiter,50000,Kochi
+E111,Aditya Kapoor,Sales,Sales Manager,88000,Mumbai
+E112,Meera Pillai,IT,Data Engineer,95000,Bangalore
+E113,Raj Malhotra,Finance,Auditor,65000,Delhi
+E114,Sneha Kulkarni,Marketing,Content Strategist,62000,Pune
+E115,Varun Chawla,IT,DevOps Engineer,91000,Gurgaon
+E116,Kavya Menon,HR,HR Manager,83000,Chennai
+E117,Rahul Das,Sales,Business Executive,54000,Kolkata
+E118,Nisha Bansal,Finance,Tax Consultant,78000,Delhi
+E119,Manish Yadav,IT,Backend Developer,87000,Bangalore
+E120,Simran Kaur,Marketing,SEO Specialist,59000,Chandigarh
